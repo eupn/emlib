@@ -1,6 +1,6 @@
 # emlib
 
-Rust bindings for Silicon Labs emlib.
+Rust bindings for Silicon Labs emlib. Based on outdated [RustyGecko](https://github.com/RustyGecko) effort.
 
 `emlib` compiles and runs on Silicon Labs EFM32 Microcontrollers. 
 It's a proof-of-concept and work in progress, so currently only parts the
