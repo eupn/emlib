@@ -4,7 +4,7 @@ Rust bindings for Silicon Labs emlib.
 
 `emlib` compiles and runs on Silicon Labs EFM32 Microcontrollers. 
 It's a proof-of-concept and work in progress, so currently only parts the
-[EFM32 Happy Gecko](http://www.silabs.com/products/mcu/32-bit/efm32-giant-gecko/pages/efm32-happy-gecko.aspx)
+[EFM32 Happy Gecko](https://www.silabs.com/products/mcu/32-bit/efm32-happy-gecko)
 family of their microcontrollers are supported.
 
 # Compiling emlib
