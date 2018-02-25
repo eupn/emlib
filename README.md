@@ -1,3 +1,6 @@
+[![crates.io](https://img.shields.io/crates/v/emlib.svg)](https://crates.io/crates/emlib)
+[![crates.io](https://img.shields.io/crates/d/emlib.svg)](https://crates.io/crates/emlib)
+
 # emlib
 
 Rust bindings for Silicon Labs emlib. Based on outdated [RustyGecko](https://github.com/RustyGecko) effort.
