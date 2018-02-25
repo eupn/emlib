@@ -2,7 +2,7 @@
 authors = ["EP <eupn@protonmail.com>"]
 categories = ["embedded", "no-std"]
 description = "A SiLabs EMlib bindings for Happy Gecko MCU (EFM32HG222F64)"
-keywords = [ "embedded", "arm", "cortex-m0+", "hal", "no-std", "ffi" ]
+keywords = [ "embedded", "arm", "cortex-m0", "hal", "no-std", "ffi" ]
 license = "MIT OR Apache-2.0"
 name = "emlib"
 repository = "https://github.com/eupn/emlib"
